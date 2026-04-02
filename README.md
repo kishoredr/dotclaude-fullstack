@@ -1,4 +1,4 @@
-# <img src="assets/banner.png" alt="dotclaude-fullstack" width="100%"/>
+# <img src="banner.png" alt="dotclaude-fullstack" width="100%"/>
 
 <div align="center">
 
