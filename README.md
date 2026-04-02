@@ -186,10 +186,10 @@ Ideas: `mobile-architect` · `ml-engineer` · `graphql-design` · `accessibility
 
 ## 📖 Resources
 
-- [Claude Code docs](https://docs.claude.ai/code)
-- [Claude Code skills](https://code.claude.ai/docs/en/skills)
-- [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills)
-- [kishor.me](https://kishor.me)
+- [Claude Code docs](https://docs.anthropic.com/en/docs/claude-code)
+- [Claude Code skills](https://docs.anthropic.com/en/docs/claude-code/skills)
+- [Claude Code subagents](https://docs.anthropic.com/en/docs/claude-code/sub-agents)
+
 
 ---
 
